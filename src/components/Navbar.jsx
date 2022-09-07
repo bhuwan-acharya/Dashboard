@@ -41,7 +41,7 @@ const Navbar = () => {
     window.addEventListener("resize", handleResize);
     handleResize();
     return () => window.removeEventListener("resize", handleResize);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line
   }, []);
 
   useEffect(() => {
@@ -50,6 +50,7 @@ const Navbar = () => {
     } else {
       setActiveMenu(true);
     }
+    // eslint-disable-next-line
   }, [screenSize]);
 
   return (
@@ -83,7 +84,11 @@ const Navbar = () => {
         />
         <TooltipComponent content="Profile" position="BottomCenter">
           <div className="flex items-center gap-2 cursor-pointer p-1">
-            <img src={avatar} className="rounded-full w-8 h-8" alt="image" />
+            <img
+              src={avatar}
+              className="rounded-full w-8 h-8"
+              alt="avatarimage"
+            />
             <p>
               <span className="text-gray-400 text-14">Hi,</span>{" "}
               <span className="text-gray-400 font-bold ml-1 text-14">
