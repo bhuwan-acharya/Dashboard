@@ -6,7 +6,6 @@ import {
   Inject,
   DateTime,
   Legend,
-  StackingBarSeries,
   ColumnSeries,
   DataLabel,
   Category,

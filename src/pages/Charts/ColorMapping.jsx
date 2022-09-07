@@ -6,12 +6,8 @@ import {
   Inject,
   ColumnSeries,
   Category,
-  Highlight,
-  DataLabel,
   Tooltip,
-  ILoadedEventArgs,
   Legend,
-  ChartTheme,
   RangeColorSettingsDirective,
   RangeColorSettingDirective,
 } from "@syncfusion/ej2-react-charts";
