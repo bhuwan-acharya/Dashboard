@@ -24,7 +24,7 @@ const Ecommerce = () => {
             />
           </div>
         </div>
-        <div className="flex gap-1 justify-center m-3 items-center">
+        <div className="flex gap-1 flex-wrap justify-center m-3 items-center">
           {earningData.map((item) => (
             <div
               key={item.title}
