@@ -12,4 +12,18 @@ This project has been developed using React version 17.0.2. Also the Framework l
   
   Calender:- this not only shows the day and date but also allows us to add event in the calender. We also allows us to filter the event or the agendas based on day, week or month.
   
+  Kanban:- It helps to organize the tasks according to the status like to do , in progress and completed. It also allows us to move the task from one to other for example, moving the task from To Do to in Progress and vice-versa.
   
+  Editor:- It is a simple basic Editor with some features like justification, add link and images.
+  
+  Color-picker:- It is a simple color picking tools where we are able to choose the color and find the Hex as well as RGBA value.
+  
+  This application also includes charts like,  lin chart, Area chart, bar chart, pie chart, color-mapping, and many more which helps the admin to get the better vision for the things going around in the company.
+  
+  
+ Beside this users are also allowedd to change the theme color of the application. Also there is dedicated button to change into dark mode and light mode.
+ 
+ Also last but not least, there are icons cart, notification and message which demonstrate how it looks while building the complete application. Here complete application means having a backend for this application and make it fully functioning application.
+ 
+ Link to visit the web application is as follow:-
+ https://bhuwandashboard.netlify.app/
