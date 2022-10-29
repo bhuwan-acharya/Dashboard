@@ -26,4 +26,4 @@ This project has been developed using React version 17.0.2. Also the Framework l
  Also last but not least, there are icons cart, notification and message which demonstrate how it looks while building the complete application. Here complete application means having a backend for this application and make it fully functioning application.
  
  Link to visit the web application is as follow:-
- https://bhuwandashboard.netlify.app/
+https://shoppydashboarddesign.netlify.app/
